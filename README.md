@@ -1,1 +1,2 @@
-# Notes_App
+# Notes-app
+a notes taking app
